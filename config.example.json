@@ -1,0 +1,19 @@
+{
+  "smtp": {
+    "host": "smtp.gmail.com",
+    "port": 465,
+    "user": "tucorreo@gmail.com",
+    "password": "CONTRASENA_DE_APLICACION",
+    "from": "tucorreo@gmail.com",
+    "to": ["tucorreo@gmail.com"]
+  },
+  "telegram": {
+    "bot_token": "",
+    "chat_id": ""
+  },
+  "filters": {
+    "max_total_rent": null,
+    "min_area": null,
+    "cities": []
+  }
+}
