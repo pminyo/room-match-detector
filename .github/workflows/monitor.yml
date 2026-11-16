@@ -2,7 +2,7 @@ name: RoomMatch watcher
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "*/05 * * * *"
   workflow_dispatch:
     inputs:
       test:
